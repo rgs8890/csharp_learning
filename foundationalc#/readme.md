@@ -1,6 +1,6 @@
 This folder will contain all my learning from the foundational C# Certificate with an overview of the concepts I have learnt. I would like to extend my thanks to Sacha Barber and Francois Ludovic from TP ICAP, as learning from them and watching them code made me want to pursue learning C# more.
 
-## C# Learning Projects (100+)
+## C# Learning Projects (60+)
 
 | Project No | Name               | Main Programming Concepts                                                                                 |  
 |------------|--------------------|-----------------------------------------------------------------------------------------------------------|
@@ -67,9 +67,9 @@ This folder will contain all my learning from the foundational C# Certificate wi
 | 061        | try_catch2         | string[] inputValues = new string[] {"three", "999999999", "0", "2"}  try, catch, catch, finally          |
 | 062        | exception_1        | checked try { int num1 = int.MaxValue; int num2 = int.MaxValue } catch (OverFlowException ex)             |
 | 063        | exception_2        | foreach(string[] userEntries in userEnteredValues) try, catch (Exception ex) if (ex.StackTrace).Contains  |
-| 064        | custom_exception1  |  Reads data from a file       |
-| 065        | File Reader        | Reads data from a file       |
-| 066        | File Reader        | Reads data from a file       |
+| 064        | custom_exception1  | DivideByZeroException unexpectedDivideByZeroException = new DivideByZeroException("DivideByZeroException")|
+| 065        | custom_exception2  | try { Console.Write("Enter the lower bound:");, catch (ArgumentOutOfRangeException ex) (FormatException)  |
+| 066        | custom_exception3  | try { WorkFlow1(userEnteredValues) catch (DivideByZeroException ex), try{} catch(FormatException)         |
 | 067        | File Reader        | Reads data from a file       |
 | 068        | File Reader        | Reads data from a file       |
 | 069        | File Reader        | Reads data from a file       |
