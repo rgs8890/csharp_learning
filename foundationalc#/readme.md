@@ -1,0 +1,1 @@
+This folder will contain all my learning from the foundational C# Certificate with an overview of the concepts I have learnt. I would like to extend my thanks to Sacha Barber and Francois Ludovic from TP ICAP, as learning from them and watching them code made me want to pursue learning C# more.
