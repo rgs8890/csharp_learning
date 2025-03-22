@@ -51,8 +51,8 @@ This folder will contain all my learning from the foundational C# Certificate wi
 | 045        | void method2       | Math.Abs(newGMT), Convert.ToInt32(Console.ReadLine()), val.ToString(), time.Insert()                      |
 | 046        | void_method3       | foreach (string ipv4 in ipv4Input), ipv4.Split(".", StringSplitOptions.RemoveEmptyEntries)                |    
 | 047        | void_method4       | string[] text = {}, void tellFortune(), string[] fortune = (luck > 75 ? good : (luck < 25 ? bad : neutral)|
-| 048        | void_parameters_2  | void CountTo(int max), int[] schedule, void DisplayAdjustedTimes(int[] times), void PrintCircleArea()     |
-| 049        | void_parameters_2  | void PrintArray(int[] array)                                                                              |
+| 048        | void_parameters    | void CountTo(int max), int[] schedule, void DisplayAdjustedTimes(int[] times), void PrintCircleArea()     |
+| 049        | void_parameters2   | void PrintArray(int[] array)                                                                              |
 | 050        | double_array1      | string[,] corporate                                                                                       |
 | 051        | double_array2      | double total = 0, double minimumSpend = 30.00                                                             |
 | 052        | int_usdtovnd       | int vnd = UsdToVnd(usd), for (int i = word.Length - 1; i >= 0; i--), string[] words = sentence.Split(" ") |
