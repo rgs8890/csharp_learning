@@ -1,0 +1,14 @@
+C:\Users\rgs88\CSharpProjects\TestProject47\bin\Debug\net9.0\TestProject47.exe
+C:\Users\rgs88\CSharpProjects\TestProject47\bin\Debug\net9.0\TestProject47.deps.json
+C:\Users\rgs88\CSharpProjects\TestProject47\bin\Debug\net9.0\TestProject47.runtimeconfig.json
+C:\Users\rgs88\CSharpProjects\TestProject47\bin\Debug\net9.0\TestProject47.dll
+C:\Users\rgs88\CSharpProjects\TestProject47\bin\Debug\net9.0\TestProject47.pdb
+C:\Users\rgs88\CSharpProjects\TestProject47\obj\Debug\net9.0\TestProject47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rgs88\CSharpProjects\TestProject47\obj\Debug\net9.0\TestProject47.AssemblyInfoInputs.cache
+C:\Users\rgs88\CSharpProjects\TestProject47\obj\Debug\net9.0\TestProject47.AssemblyInfo.cs
+C:\Users\rgs88\CSharpProjects\TestProject47\obj\Debug\net9.0\TestProject47.csproj.CoreCompileInputs.cache
+C:\Users\rgs88\CSharpProjects\TestProject47\obj\Debug\net9.0\TestProject47.dll
+C:\Users\rgs88\CSharpProjects\TestProject47\obj\Debug\net9.0\refint\TestProject47.dll
+C:\Users\rgs88\CSharpProjects\TestProject47\obj\Debug\net9.0\TestProject47.pdb
+C:\Users\rgs88\CSharpProjects\TestProject47\obj\Debug\net9.0\TestProject47.genruntimeconfig.cache
+C:\Users\rgs88\CSharpProjects\TestProject47\obj\Debug\net9.0\ref\TestProject47.dll
