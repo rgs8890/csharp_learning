@@ -1,0 +1,4 @@
+C:\Users\rgs88\CSharpProjects\TestProject57\obj\Debug\net9.0\TestProject57.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rgs88\CSharpProjects\TestProject57\obj\Debug\net9.0\TestProject57.AssemblyInfoInputs.cache
+C:\Users\rgs88\CSharpProjects\TestProject57\obj\Debug\net9.0\TestProject57.AssemblyInfo.cs
+C:\Users\rgs88\CSharpProjects\TestProject57\obj\Debug\net9.0\TestProject57.csproj.CoreCompileInputs.cache
