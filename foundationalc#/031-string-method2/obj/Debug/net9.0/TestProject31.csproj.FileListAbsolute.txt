@@ -1,0 +1,14 @@
+C:\Users\rgs88\CSharpProjects\TestProject31\bin\Debug\net9.0\TestProject31.exe
+C:\Users\rgs88\CSharpProjects\TestProject31\bin\Debug\net9.0\TestProject31.deps.json
+C:\Users\rgs88\CSharpProjects\TestProject31\bin\Debug\net9.0\TestProject31.runtimeconfig.json
+C:\Users\rgs88\CSharpProjects\TestProject31\bin\Debug\net9.0\TestProject31.dll
+C:\Users\rgs88\CSharpProjects\TestProject31\bin\Debug\net9.0\TestProject31.pdb
+C:\Users\rgs88\CSharpProjects\TestProject31\obj\Debug\net9.0\TestProject31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rgs88\CSharpProjects\TestProject31\obj\Debug\net9.0\TestProject31.AssemblyInfoInputs.cache
+C:\Users\rgs88\CSharpProjects\TestProject31\obj\Debug\net9.0\TestProject31.AssemblyInfo.cs
+C:\Users\rgs88\CSharpProjects\TestProject31\obj\Debug\net9.0\TestProject31.csproj.CoreCompileInputs.cache
+C:\Users\rgs88\CSharpProjects\TestProject31\obj\Debug\net9.0\TestProject31.dll
+C:\Users\rgs88\CSharpProjects\TestProject31\obj\Debug\net9.0\refint\TestProject31.dll
+C:\Users\rgs88\CSharpProjects\TestProject31\obj\Debug\net9.0\TestProject31.pdb
+C:\Users\rgs88\CSharpProjects\TestProject31\obj\Debug\net9.0\TestProject31.genruntimeconfig.cache
+C:\Users\rgs88\CSharpProjects\TestProject31\obj\Debug\net9.0\ref\TestProject31.dll
