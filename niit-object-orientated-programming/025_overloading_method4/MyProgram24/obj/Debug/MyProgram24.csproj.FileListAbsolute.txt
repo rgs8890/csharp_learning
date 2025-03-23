@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\MyProgram24\MyProgram24\bin\Debug\MyProgram24.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\MyProgram24\MyProgram24\bin\Debug\MyProgram24.exe
+c:\users\admin\documents\visual studio 2015\Projects\MyProgram24\MyProgram24\bin\Debug\MyProgram24.pdb
+c:\users\admin\documents\visual studio 2015\Projects\MyProgram24\MyProgram24\obj\Debug\MyProgram24.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\MyProgram24\MyProgram24\obj\Debug\MyProgram24.exe
+c:\users\admin\documents\visual studio 2015\Projects\MyProgram24\MyProgram24\obj\Debug\MyProgram24.pdb

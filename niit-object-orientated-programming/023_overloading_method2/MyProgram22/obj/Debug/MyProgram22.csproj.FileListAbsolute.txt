@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\MyProgram22\MyProgram22\bin\Debug\MyProgram22.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\MyProgram22\MyProgram22\bin\Debug\MyProgram22.exe
+c:\users\admin\documents\visual studio 2015\Projects\MyProgram22\MyProgram22\bin\Debug\MyProgram22.pdb
+c:\users\admin\documents\visual studio 2015\Projects\MyProgram22\MyProgram22\obj\Debug\MyProgram22.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\MyProgram22\MyProgram22\obj\Debug\MyProgram22.exe
+c:\users\admin\documents\visual studio 2015\Projects\MyProgram22\MyProgram22\obj\Debug\MyProgram22.pdb
