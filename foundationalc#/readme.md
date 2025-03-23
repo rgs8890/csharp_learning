@@ -70,8 +70,8 @@ This folder will contain all my learning from the foundational C# Certificate wi
 | 064        | custom_exception1  | DivideByZeroException unexpectedDivideByZeroException = new DivideByZeroException("DivideByZeroException")|
 | 065        | custom_exception2  | try { Console.Write("Enter the lower bound:");, catch (ArgumentOutOfRangeException ex) (FormatException)  |
 | 066        | custom_exception3  | try { WorkFlow1(userEnteredValues) catch (DivideByZeroException ex), try{} catch(FormatException)         |
-| 067        | File Reader        | Reads data from a file       |
-| 068        | File Reader        | Reads data from a file       |
-| 069        | File Reader        | Reads data from a file       |
-| 070        | File Reader        | Reads data from a file       |
+| 067        | con_writeline1     | Console.WriteLine(), Console.Write(), value++, value -=, int, decimal, string, char, celsius = 5m         |
+| 068        | if_statement1      | if (total > 14) {Console.WriteLine}, if (message.Contains("fox")){Console.WriteLine("What does fox say")} |
+| 069        | variables_1        | sophiaSum = sophia1 + sophia2, sophiaScore = (decimal)sophiaSum / currentAssignments                      |
+| 070        | variables_2        | int courseCredit = 3, totalCreditHours += courseCredit1, Console.WriteLine($"{course1Name}\t\t")          |
 
