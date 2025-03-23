@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2015\Projects\MyEx1\MyEx1\bin\Debug\MyEx1.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\MyEx1\MyEx1\bin\Debug\MyEx1.exe
+c:\users\admin\documents\visual studio 2015\Projects\MyEx1\MyEx1\bin\Debug\MyEx1.pdb
+c:\users\admin\documents\visual studio 2015\Projects\MyEx1\MyEx1\obj\Debug\MyEx1.exe
+c:\users\admin\documents\visual studio 2015\Projects\MyEx1\MyEx1\obj\Debug\MyEx1.pdb
