@@ -1,0 +1,14 @@
+C:\Users\rgs88\CSharpProjects\GuidedProject1\bin\Debug\net9.0\GuidedProject1.exe
+C:\Users\rgs88\CSharpProjects\GuidedProject1\bin\Debug\net9.0\GuidedProject1.deps.json
+C:\Users\rgs88\CSharpProjects\GuidedProject1\bin\Debug\net9.0\GuidedProject1.runtimeconfig.json
+C:\Users\rgs88\CSharpProjects\GuidedProject1\bin\Debug\net9.0\GuidedProject1.dll
+C:\Users\rgs88\CSharpProjects\GuidedProject1\bin\Debug\net9.0\GuidedProject1.pdb
+C:\Users\rgs88\CSharpProjects\GuidedProject1\obj\Debug\net9.0\GuidedProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rgs88\CSharpProjects\GuidedProject1\obj\Debug\net9.0\GuidedProject1.AssemblyInfoInputs.cache
+C:\Users\rgs88\CSharpProjects\GuidedProject1\obj\Debug\net9.0\GuidedProject1.AssemblyInfo.cs
+C:\Users\rgs88\CSharpProjects\GuidedProject1\obj\Debug\net9.0\GuidedProject1.csproj.CoreCompileInputs.cache
+C:\Users\rgs88\CSharpProjects\GuidedProject1\obj\Debug\net9.0\GuidedProject1.dll
+C:\Users\rgs88\CSharpProjects\GuidedProject1\obj\Debug\net9.0\refint\GuidedProject1.dll
+C:\Users\rgs88\CSharpProjects\GuidedProject1\obj\Debug\net9.0\GuidedProject1.pdb
+C:\Users\rgs88\CSharpProjects\GuidedProject1\obj\Debug\net9.0\GuidedProject1.genruntimeconfig.cache
+C:\Users\rgs88\CSharpProjects\GuidedProject1\obj\Debug\net9.0\ref\GuidedProject1.dll
