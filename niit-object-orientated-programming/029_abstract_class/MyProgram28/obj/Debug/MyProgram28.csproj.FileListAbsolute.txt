@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\MyProgram28\MyProgram28\bin\Debug\MyProgram28.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\MyProgram28\MyProgram28\obj\Debug\MyProgram28.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\MyProgram28\MyProgram28\bin\Debug\MyProgram28.exe
+c:\users\admin\documents\visual studio 2015\Projects\MyProgram28\MyProgram28\bin\Debug\MyProgram28.pdb
+c:\users\admin\documents\visual studio 2015\Projects\MyProgram28\MyProgram28\obj\Debug\MyProgram28.exe
+c:\users\admin\documents\visual studio 2015\Projects\MyProgram28\MyProgram28\obj\Debug\MyProgram28.pdb
