@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2015\Projects\MyProgram14\MyProgram14\bin\Debug\MyProgram14.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\MyProgram14\MyProgram14\bin\Debug\MyProgram14.exe
+c:\users\admin\documents\visual studio 2015\Projects\MyProgram14\MyProgram14\bin\Debug\MyProgram14.pdb
+c:\users\admin\documents\visual studio 2015\Projects\MyProgram14\MyProgram14\obj\Debug\MyProgram14.exe
+c:\users\admin\documents\visual studio 2015\Projects\MyProgram14\MyProgram14\obj\Debug\MyProgram14.pdb
