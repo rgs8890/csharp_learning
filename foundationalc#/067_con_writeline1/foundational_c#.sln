@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "foundational_c#", "foundational_c#\foundational_c#.csproj", "{B94315B1-40E9-4D54-A7B0-6B79B2BE467E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{51376AF0-5D54-467C-999F-C14E37B7BE9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B94315B1-40E9-4D54-A7B0-6B79B2BE467E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B94315B1-40E9-4D54-A7B0-6B79B2BE467E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B94315B1-40E9-4D54-A7B0-6B79B2BE467E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B94315B1-40E9-4D54-A7B0-6B79B2BE467E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

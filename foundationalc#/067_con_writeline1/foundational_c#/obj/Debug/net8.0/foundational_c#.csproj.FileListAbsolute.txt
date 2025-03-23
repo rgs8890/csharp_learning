@@ -1,0 +1,14 @@
+C:\Users\rgs88\source\repos\foundational_c#\foundational_c#\bin\Debug\net8.0\foundational_c#.exe
+C:\Users\rgs88\source\repos\foundational_c#\foundational_c#\bin\Debug\net8.0\foundational_c#.deps.json
+C:\Users\rgs88\source\repos\foundational_c#\foundational_c#\bin\Debug\net8.0\foundational_c#.runtimeconfig.json
+C:\Users\rgs88\source\repos\foundational_c#\foundational_c#\bin\Debug\net8.0\foundational_c#.dll
+C:\Users\rgs88\source\repos\foundational_c#\foundational_c#\bin\Debug\net8.0\foundational_c#.pdb
+C:\Users\rgs88\source\repos\foundational_c#\foundational_c#\obj\Debug\net8.0\foundational_c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rgs88\source\repos\foundational_c#\foundational_c#\obj\Debug\net8.0\foundational_c#.AssemblyInfoInputs.cache
+C:\Users\rgs88\source\repos\foundational_c#\foundational_c#\obj\Debug\net8.0\foundational_c#.AssemblyInfo.cs
+C:\Users\rgs88\source\repos\foundational_c#\foundational_c#\obj\Debug\net8.0\foundational_c#.csproj.CoreCompileInputs.cache
+C:\Users\rgs88\source\repos\foundational_c#\foundational_c#\obj\Debug\net8.0\foundational_c#.dll
+C:\Users\rgs88\source\repos\foundational_c#\foundational_c#\obj\Debug\net8.0\refint\foundational_c#.dll
+C:\Users\rgs88\source\repos\foundational_c#\foundational_c#\obj\Debug\net8.0\foundational_c#.pdb
+C:\Users\rgs88\source\repos\foundational_c#\foundational_c#\obj\Debug\net8.0\foundational_c#.genruntimeconfig.cache
+C:\Users\rgs88\source\repos\foundational_c#\foundational_c#\obj\Debug\net8.0\ref\foundational_c#.dll
