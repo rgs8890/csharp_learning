@@ -1,9 +1,9 @@
 This is my repo for all the projects done within the NIIT C# Object Orientated Programming Course. When I was in India, Ballari, I was working on this course, and the instructor used a .NET framework of 4.8 to build these introductory projects for the C# Object Orientated Programming Course.
 
 ## C# Learning Projects (50+)
-  
-| Project No | Name               | Programming Concepts Covered                                                                                                                    |  
-|------------|--------------------|--------------------------------------------------------------------------------------------------------------------------------------------- ---|
+
+| Project No | Name               | Main Programming Concepts                                                                                                                       |  
+|------------|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 | 001        | con_writeline1     | Console.WriteLine("Hello World"), Console.ReadKey()                                                                                             |
 | 002        | form_1             | Creating a form. Application.EnableVisualStyles(), Application.SetCompatibleTextRenderingDefault(false), Application.Run(new Form1())           |
 | 003        | enter_number       | Console.Write(), Convert.ToInt32(Console.ReadLine()), z = x + y, Console.WriteLine(Addition of {0}, x)                                          |
