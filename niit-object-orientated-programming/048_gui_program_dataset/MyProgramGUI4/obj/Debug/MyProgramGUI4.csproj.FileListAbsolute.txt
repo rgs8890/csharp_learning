@@ -1,0 +1,11 @@
+c:\users\admin\documents\visual studio 2015\Projects\MyProgramGUI4\MyProgramGUI4\bin\Debug\MyProgramGUI4.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\MyProgramGUI4\MyProgramGUI4\bin\Debug\MyProgramGUI4.exe
+c:\users\admin\documents\visual studio 2015\Projects\MyProgramGUI4\MyProgramGUI4\bin\Debug\MyProgramGUI4.pdb
+c:\users\admin\documents\visual studio 2015\Projects\MyProgramGUI4\MyProgramGUI4\obj\Debug\MyProgramGUI4.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\MyProgramGUI4\MyProgramGUI4\obj\Debug\MyProgramGUI4.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\MyProgramGUI4\MyProgramGUI4\obj\Debug\MyProgramGUI4.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\MyProgramGUI4\MyProgramGUI4\obj\Debug\MyProgramGUI4.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\MyProgramGUI4\MyProgramGUI4\obj\Debug\MyProgramGUI4.exe
+c:\users\admin\documents\visual studio 2015\Projects\MyProgramGUI4\MyProgramGUI4\obj\Debug\MyProgramGUI4.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ABC\MyProgramGUI4\MyProgramGUI4\bin\Debug\MyProgramGUI4.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ABC\MyProgramGUI4\MyProgramGUI4\obj\Debug\MyProgramGUI4.pdb

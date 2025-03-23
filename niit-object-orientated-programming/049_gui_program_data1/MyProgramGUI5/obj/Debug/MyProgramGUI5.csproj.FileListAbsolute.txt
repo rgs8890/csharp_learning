@@ -1,0 +1,12 @@
+c:\users\admin\documents\visual studio 2015\Projects\MyProgramGUI5\MyProgramGUI5\bin\Debug\MyProgramGUI5.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\MyProgramGUI5\MyProgramGUI5\bin\Debug\MyProgramGUI5.exe
+c:\users\admin\documents\visual studio 2015\Projects\MyProgramGUI5\MyProgramGUI5\bin\Debug\MyProgramGUI5.pdb
+c:\users\admin\documents\visual studio 2015\Projects\MyProgramGUI5\MyProgramGUI5\bin\Debug\Oracle.ManagedDataAccess.dll
+c:\users\admin\documents\visual studio 2015\Projects\MyProgramGUI5\MyProgramGUI5\obj\Debug\MyProgramGUI5.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\MyProgramGUI5\MyProgramGUI5\obj\Debug\MyProgramGUI5.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\MyProgramGUI5\MyProgramGUI5\obj\Debug\MyProgramGUI5.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\MyProgramGUI5\MyProgramGUI5\obj\Debug\MyProgramGUI5.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\MyProgramGUI5\MyProgramGUI5\obj\Debug\MyProgramGUI5.exe
+c:\users\admin\documents\visual studio 2015\Projects\MyProgramGUI5\MyProgramGUI5\obj\Debug\MyProgramGUI5.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ABC\MyProgramGUI5\MyProgramGUI5\bin\Debug\MyProgramGUI5.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ABC\MyProgramGUI5\MyProgramGUI5\obj\Debug\MyProgramGUI5.pdb
